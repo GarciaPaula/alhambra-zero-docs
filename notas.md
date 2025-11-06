@@ -1,0 +1,1 @@
+Proteger la rama principal es buena práctica porque para las pruebas ya están las ramas features.
